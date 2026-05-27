@@ -1,0 +1,70 @@
+QCM ||	À quelles exigences doit répondre un logiciel pour permettre la réalisation d'audit énergétique réglementaire ? (2 réponses attendues)	 || 	V:	Utiliser un moteur de calcul 3CL 2021	|		Utiliser une méthode de calcul comportementale	|	V:	Être évalué par le CSTB	|		Respecter les gardes fou de la RT existant		
+QCM ||	Quel est le texte qui déﬁnit le niveau de rénovation énergétique performante à atteindre dans les scénarios de travaux de l'audit énergétique ? (1 réponse attendue)	 || 		L'arrêté du 4 mai 2022	|		L'arrêté du 1er avril 2024	|	V:	L'article L111-1 du Code de la construction et de l'habitatio	|		La norme NF-EN-16247-2		
+QCM ||	Combien existe-t-il de zones climatiques dans la méthode de calcul 3CL v2021 ? (1 réponse attendue)	 || 		3	|		5	|	V:	6	|		8		
+QCM ||	Quelle est la valeur maximale de R prise en compte pour un enduit isolant en 3CL v2021 ? (1 réponse attendue)	 || 		Non prise en compte	|	V:	0,7 m².K/W	|		1,5 m².K/W	|		2,3 m².K/W		
+QCM ||	Quelle est la pathologie constatée ?	 || 	V:	Corrosion des aciers entrainant une dégradation du revêtment imperméabl	|		Revêtement étanche non adapté au support	|		Fissure structurelle au niveau de la liaison mur / plancher intermédiaire	|		Développement de micro-organismes		
+QCM ||	Quel est l'écart au feu minimal à maintenir autour d'un conduit de fumée métallique ? (1 réponse attendue)	 || 		6 cm	|	V:	8 cm	|		10 cm	|		12 cm		
+QCM ||	Parmis les propositions suivantes, lesquelles entrainent ou peuvent entrainer l'application d'une dérogation à l'objectif de performance de l'audit énergétique ?  (3 réponse attendue)	 || 	V:	Les travaux de rénovation énergétique excéde 50% de la valeur vénale du bien	|		Le logement a un DPE de classe E	|	V:	Les travaux risquent de générer des pathologies	|	V:	Le bien est inscrit ou classé		
+QCM ||	Dans le cadre des travaux d'ITE et d'isolation par sarking, quelles sont les dérogations possibles pour le surplomb de la voie publique et de surélévation de la toiture déﬁnies par la loi ? (2 réponses attendues)	 || 		Surplomb de 30 cm pour l'ITE et surélévation de 30 cm pour la toiture 	|	V:	Surplomb de 20 cm pour l'ITE et surélévation de 10 cm pour la toiture 	|		Surplomb de 15 cm pour l'ITE et surélévation de 30 cm pour la toiture 	|	V:	Surplomb de 15 cm pour l'ITE et surélévation de 15 cm pour la toiture		
+QCM ||	Quelles sont les règles d'installation d'une tête thermostatique sur un radiateur à eau ? (2 réponses attendues)	 || 		Le robinet thermostatique doit être installé à la verticale	|	V:	Le robinet thermostatique doit être installé à l'horizontale	|	V:	Au moins un radiateur du circuit ne doit pas être équipé de tête thermostatique	|		Le robinet thermostatique doit être installer sur le retour du circuit pour une régulation plus précise		
+QCM ||	Que permet de mesurer un anémomètre associé à un cône de mesure ? (1 réponse attendue)	 || 		Le débit d'extraction d'une bouche hygroréglable	|		La vitesse de l'air dans un conduit de ventilation	|		La puissance des auxiliaires de ventilation	|	V:	Le débit d'extraction d'une bouche autoréglable		
+QCM ||	Dans un logement de type 3 ou plus, quel est le débit d'extraction réglementaire minimal dans une cuisine en cas de VMC autoréglable ?	 || 		15 m3/h	|		30 m3/h	|	V:	45 m3/h	|		60 m3/h		
+QCM ||	À quelle fréquence doit-on réaliser l'entretien d'un équipement thermodynamique utilisé pour le chauﬀage ou la climatisation en maison individuelle ?	 || 		Tous les ans 	|	V:	Tous les 2 ans 	|		Tous les 3 ans 	|		Tous les 5 ans 		
+QCM ||	Quel type de matériaux a le plus grand coeﬃcient de résistance de diﬀusion à la vapeur ? (1 réponse attendue)	 || 		Les matériaux ﬁbreux	|	V:	Les matériaux issus de la pétrochimie	|		Les matériaux biosourcés	|		Les matériaux souﬄés en vrac		
+QCM ||	Quelle est la valeur maximale du coeﬃcient de transmission thermique Ud imposée par la RT Existant pour une porte d’entrée ? (1 réponse attendue)	 || 		1,5 W/m².k	|		1,7 W/m².k	|	V:	2 W/m².k	|		2,3 W/m².k		
+QCM ||	Dans le cas de liaisons entre parois lourdes, quelles sont les conséquences de l'isolation thermique par l'intérieur des murs sur les ponts thermiques du bâtiment ? (2 réponses attendues)	 || 		Le pont thermique plancher intermédiaire / mur est attenué	|	V:	Le pont thermique plancher intermédiaire / mur est augmenté	|		Le pont thermique refend / mur est attenué	|	V:	Le pont thermique refend / mur est augmenté		
+QCM ||	Le liège expansé en panneau est particulièrement adapté pour : (2 réponses attendues)	 || 	V:	L’isolation des soubassements 	|		L’isolation des rampants 	|		L’isolation des planchers hauts 	|	V:	L’isolation sous chapes		
+QCM ||	À quelle fréquence est-il recommandé de réaliser un désembouage sur une installation de chauﬀage central ?  (2 réponses attendues)	 || 		Tous les ans	|		Tous les 2 à 3 ans	|	V:	Tous les 5 à 10 ans	|	V:	En cas de dysfonctionnement		
+QCM ||	Dans la méthode 3CL, quel CET présente les meilleures performances (COP) ?  (1 réponse attendue)	 || 		CET sur air extérieur 	|	V:	CET sur air extrait 								
+QCM ||	Quelles sont les règles à suivre pour l'installation d'une VMC double ﬂux en rénovation ? (2 réponses attendues)	 || 	V:	Traiter l'étanchéité de l'enveloppe	|	V:	Condamner les entrées d'air existantes	|		Prévoir des entrées d'air dans les pièces sèches	|		Supprimer le détalonage des portes		
+QCM ||	D'après la classiﬁcation européenne, à partir de quelle classe une régulation est-elle considérée comme performante ? (1 réponse attendue)	 || 		Classe III 	|	V:	Classe IV	|		Classe V	|		Classe VI 		
+QCM ||	Lorsque la température de l'air diminue, comment évolue son humidité absolue ?  (1 réponse attendue)	 || 		L'humidité absolue diminue 	|		L'humidité absolue augmente 	|	V:	L'humidité absolue reste la même	|		Cela dépend de l'humidité relative de l'air		
+QCM ||	Parmi les mesures d'humidité de l'air ambiant suivantes, lesquelles se situent dans la plage dite de confort pour un bâtiment résidentiel ? (2 réponses attendues)	 || 		0.27	|	V:	0.44	|	V:	0.52	|		0.78		
+QCM ||	Dans le cadre d'une rénovation lourde, quelles préconisations permettent d'optimiser le confort hygrothermique ?  (2 réponses attendues)	 || 		Optimiser les apports de lumière naturelle avec de grandes baies orientées au sud sans protection solaire	|	V:	Utiliser des matériaux de parement à forte inertie thermique (cloisons, sols…) 	|	V:	Utiliser des matériaux perspirants et capillaires pour réguler l'humidité de l'air					
+QCM ||	Quelles sont les conséquences de l'installation d'une VMC dans un logement équipé d'une chaudière de type B1 ? (1 réponse attendue)	 || 	V:	Perturbation du tirage de la chaudière avec risque de refoulement	|		Amélioration du taux de renouvellement d'air, les débits extrait par la chaudière se cumulant à ceux de la VMC 	|		Economie sur les travaux d'installation de la VMC, la chaudière remplaçant la bouche VMC cuisine					
+QCM ||	Quels éléments présentent une interface avec l'isolation thermique des murs ? (2 réponses attendues)	 || 	V:	Les menuiseries	|		La ventilation	|		La production de chauﬀage	|	V:	Les réseaux d'ECS et de chauﬀage		
+QCM ||	Quels travaux sont considérés comme induits par la mise en œuvre d'une isolation thermique par l'intérieur ? (2 réponses attendues)	 || 	V:	Equilibrage des réseaux de chauﬀage 	|		Pose de revêtements muraux 	|		Création de nouvelles ouvertures 	|	V:	Déport des grilles de ventilation		
+QCM ||	Dans le cadre d’un audit énergétique, que désigne-t-on par « travaux induits » ?  (1 réponse attendue)	 || 		Les travaux qui améliorent directement la performance énergétique du logement.	|	V:	Les travaux nécessaires pour assurer la bonne réalisation, la sécurité ou la pérennité des travaux principaux d’amélioration énergétique. 	|		Les travaux d’embellissement réalisés à la demande du client, sans lien avec les travaux principaux.	|		Les travaux d’embellissement réalisés à la demande du client, sans lien avec les travaux principaux.		
+QCM ||	Quels sont les points de vigilance lors de la préconisation d'une PAC air/eau en remplacement d'une chaudière ﬁoul ?  (3 réponses attendues)	 || 	V:	La puissance des émetteurs installés	|		La température de l'eau de la nappe	|	V:	La possibilité d'implanter une unité extérieure	|	V:	Le niveau d'isolation global du bâtiment		
+QCM ||	Quels sont les diﬀérents éléments qui déﬁnissent le niveau de rénovation performante ? (2 réponses attendues)	 || 		Recours aux énergies renouvelables	|	V:	Atteinte de la classe C pour les bâtiment initialement en classes F ou G 	|		Assurer un renouvellement d'air satisfaisant	|	V:	Obligation de sortie des énergies fossiles à l'étape 2		
+QCM ||	Quels ponts thermiques sont négligés en 3CL v2021 ? (2 réponses attendues)	 || 	V:	Angles sortants mur ext/mur ext	|		Liaisons mur ext/refend	|	V:	Seuils de porte et porte/fenêtres	|		Liaison fenêtre/paroi opaque		
+QCM ||	Dans la méthode 3CL, quelle est la valeur d'étanchéité à l'air d'une maison individuelle construite avant 1948 et non isolée ?  (1 réponse attendue)	 || 		0,6 m3/(h.m2)	|		1,9 m3/(h.m2)	|	V:	3,3 m3/(h.m2)	|		5,3 m3/(h.m2)		
+QCM ||	En France, de quand date la première réglementation thermique pour les logements ?  (1 réponse attendue)	 || 		1948	|	V:	1974	|		1988	|		2000		
+QCM ||	Parmis les proﬁls suivant quels sont ceux qui sont éligibles aux CCE ?  (2 réponses attendues)	 || 	V:	Le propriétaire d'une maison de plus de 15 ans 	|		Le propriétaire d'une maison de moins de 2 ans 	|		Le locataire d'une maison de moins de 2 ans	|	V:	Le locataire d'une maison de plus de 5 ans		
+QCM ||	À quelles aides ﬁnancières peut prétendre un ménage aux revenus supérieurs pour la rénovation énergétique de leur résidence principale de plus de 15 ans ? (3 réponses attendues)	 || 		MPR par geste de travaux 	|	V:	MPR Rénovation d'ampleur 	|	V:	CEE	|	V:	CEE- Coup de pouce Rénov		
+QCM ||	Pour l'isolation thermique par l'intérieur (ITI) des murs donnant sur l'extérieur, quelles valeurs de résistance thermique sont compatibles avec le dispositif MaPrimeRenov ?  (2 réponses attendues)	 || 		2,5 m².k/W	|		3,0 m².k/W	|	V:	3,7 m².k/W	|	V:	4,0 m².k/W		
+QCM ||	Quels sont les niveaux de performance à respecter pour le remplacement des menuiseries extérieures pour être éligible à MaPrimeRenov ? (2 réponses attendues)	 || 	V:	Uw ? 1,3 W/m2.K et Sw ? 0,3	|		Uw ? 1,5 W/m2.K et Sw ? 0,3	|		Uw ? 1,6 W/m2.K et Sw ? 0,3	|	V:	Uw ? 1,7 W/m2.K et Sw ? 0,3		
+QCM ||	Vous préconisez des travaux d'ITI des murs extérieur avec : panneau isolant laine minérale + membrane pare-vapeur + ossature métallique + contre cloison plaque de plâtre.  Quelle est la proportion du coût de l'isolant seul sur le coût total fourni-posé, hors travaux de ﬁnition ?   (1 réponse attendue)	 || 		Moins de 20%	|	V:	Entre 20 et 50% 	|		Entre 51 et 75% 	|		Plus de 75%		
+QCM ||	Quels sont les deux postes de travaux les plus coûteux pour la rénovation énergétique d'une maison individuelle ?  (2 réponses attendues)	 || 	V:	Isolation des parois opaques	|		Remplacement des menuiseries extérieures	|	V:	Remplacement du système de chauﬀage	|		Remplacement (ou mise en place) d'une ventilation mécanique		
+QCM ||	Quel est l'ordre de grandeur du prix au m² pour l'isolation thermique par l'extérieur en panneau PSE calé-chevillé ? (1 réponse attendue)	 || 		Entre 50 et 100 €TTC/m²	|	V:	Entre 150 et 250 €TTC/m²	|		Entre 300 et 400 €TTC/m²					
+QCM ||	Parmi les paramètres suivants, lesquels ne sont pas pris en compte dans le calcul 3CL ?  (2 réponses attendues)	 || 	V:	La vétusté et les dégradations éventuelles des matériaux de l'enveloppe	|		La consommation des auxiliaires (distribution, ventilation, génération, ...)	|	V:	Les consommations des équipements de climatisation et de chauﬀage mobiles	|		L'étanchéité à l'air de l'enveloppe		
+QCM ||	Vous réalisez l'audit d'une maison individuelle de 150 m². Vous préconisez le remplacement d'un cumulus électrique par un chauﬀe-eau thermodynamique. Après les travaux, le maître d'ouvrage constate que la consommation réelle d'ECS est nettement supérieure par rapport à la consommation théorique aﬃchée dans l'audit. Quelles peuvent être les causes de cet écart ? (2 réponses attendues	 || 		Le maître d'ouvrage vit dans sa résidence secondaire 5 mois par ans	|		Le logement n'est occupé que par 2 personnes	|	V:	Le CET installé a été mal dimensionné par l'installateur	|	V:	Le rendement du CET installé ne correspond pas au rendement saisit dans l'audit		
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+															
+				q29											
